@@ -3,7 +3,6 @@ languageCode = "en-AU"
 defaultContentLanguage = "en"
 
 title = "Bradley Fuller"
-#copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -11,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 [params.author]
   name = "Bradley Fuller"
   headline = "Software Engineer @ One Model Inc"
-  image = "img/chiitan.jpg"  # path relative to static directory
+  image = "img/chiitan.avif"  # path relative to static directory
 
   links = [
     { email = "mailto:hello@bradfuller.xyz" },
@@ -19,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
     { github = "https://github.com/bradf_99" },
     { medium = "https://medium.com/@bradfuller" },
     { stack-overflow = "https://stackoverflow.com/users/11358164/brad-f" },
-    { instagram = "https://instagram.com/BradF-99" },
+    { instagram = "https://instagram.com/bradf_99" },
   ]
 
 [module]
